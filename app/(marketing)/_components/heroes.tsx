@@ -9,16 +9,16 @@ const Heroes = () => {
           <Image
             src="/hero-light-mode.webp"
             alt="documents"
-            width={1792}
-            height={1024}
+            width={1000}
+            height={1000}
             className="w-full h-auto object-contain dark:hidden"
             priority
           />
           <Image
             src="/hero-dark-mode.webp"
             alt="documents"
-            width={1792}
-            height={1024}
+            width={1000}
+            height={1000}
             className="w-full h-auto object-contain hidden dark:block"
             priority
           />

@@ -46,9 +46,6 @@
 html, body, :root {
   height: 100%;
 }
-html {
-  overflow-y: scroll;
-}
 :root {
   --radius: 0.625rem;
   --background: oklch(1 0 0);
